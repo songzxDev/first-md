@@ -16,8 +16,18 @@
 
 ## 引用
 
+> 这是一个引文
 ## 代码块
 
+- 行内代码
+
+- 块式代码
+
+```javascript
+var a = 1;
+a++;
+console.log(a);
+```
 
 <!-- 下面式本文档中的链接 -->
 [百度]: http://www.baidu.com
